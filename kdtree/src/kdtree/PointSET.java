@@ -1,3 +1,7 @@
+package kdtree;
+import Point2D;
+import StdDraw;
+
 import java.util.ArrayList;
 import java.util.TreeSet;
 
